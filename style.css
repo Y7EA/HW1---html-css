@@ -1,0 +1,46 @@
+body
+{
+    padding:20px;
+    margin:20px;
+    background-color:#585445 ;
+    font-family: 'Courier New', Courier, monospace;
+}
+p
+{
+    color:white;
+    font-size: 20px;
+}
+h1{
+    color:aqua;
+    margin-top: 30px;
+}
+
+li
+{
+    color:white;
+    font-size: 20px;
+}
+
+a
+{
+    color:#ff5049;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover
+{
+    text-decoration:underline;
+}
+
+div.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+span , dt{
+    color:#fff860;
+}
+
